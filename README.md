@@ -10,4 +10,4 @@ It all started with this comment:
 So, I decided to write a Python OpenCV script that would get me every single frame from the episode as an image (I got 17.8k frames).
 This repository containes the images I thought looked the best. Enjoy!
 
-I actually finished this quite a while ago, but I was t̶o̶o̶ ̶l̶a̶z̶y̶ too busy with other stuff to upload it on time.
+P.S. I actually finished this quite a while ago, but I was t̶o̶o̶ ̶l̶a̶z̶y̶ too busy with other stuff to upload it on time.
