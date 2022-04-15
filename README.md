@@ -9,6 +9,6 @@ It all started with this comment:
 ![download](https://user-images.githubusercontent.com/77671045/159865967-1656ccb6-4355-48a7-970e-c2eb69cfd01f.jpg)
 
 So, I decided to write a Python OpenCV script that would get me every single frame from the episode as an image (I got 17.8k frames).
-This repository containes the images I thought looked the best. Enjoy!
+This repository contains the images I thought looked the best. Enjoy!
 
 P.S. I actually finished this quite a while ago, but I was t̶o̶o̶ ̶l̶a̶z̶y̶ too busy with other stuff to upload it on time.
